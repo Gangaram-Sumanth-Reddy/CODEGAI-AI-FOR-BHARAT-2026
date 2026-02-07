@@ -1,7 +1,7 @@
-# AI Learning & Developer Productivity Copilot
+# AI Learning & Developer Productivity
 
 ## Overview
-Learning software development today is not just about finding resources—it’s about deciding 
+Learning software development today is not just about finding resources it’s about deciding 
 "what to learn next" and "where to focus". 
 Early-career developers and students often spend a lot of time following scattered tutorials, revisiting basics unnecessarily, or learning concepts that don’t align with their actual goals.
 
