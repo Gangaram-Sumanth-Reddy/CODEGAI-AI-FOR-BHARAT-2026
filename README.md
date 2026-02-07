@@ -1,7 +1,9 @@
-<h1>AI Learning & Developer Productivity Copilot</h1>
+# AI Learning & Developer Productivity Copilot
 
-<h2>Overview</h>
-Learning software development today is not just about finding resources—it’s about deciding **what to learn next** and **where to focus**. Early-career developers and students often spend a lot of time following scattered tutorials, revisiting basics unnecessarily, or learning concepts that don’t align with their actual goals.
+## Overview
+Learning software development today is not just about finding resources—it’s about deciding 
+"what to learn next" and "where to focus". 
+Early-career developers and students often spend a lot of time following scattered tutorials, revisiting basics unnecessarily, or learning concepts that don’t align with their actual goals.
 
 This project proposes an AI-powered learning and productivity copilot that helps users make better learning and work decisions by understanding their **goals, current skill level, progress, and constraints**.
 
